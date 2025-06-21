@@ -1,4 +1,5 @@
-package SingletonPatternExample;
+package singletonPatternExample;
+
 
 public class App {
 
